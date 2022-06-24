@@ -1,1 +1,1 @@
-Task 0, Where am l in long format
+Display current directory contents in a long format
